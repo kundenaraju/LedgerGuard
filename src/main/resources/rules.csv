@@ -1,0 +1,9 @@
+rule_id,rule_name,field,operator,value,severity
+R001,High amount threshold,amount,gt,1000,HIGH
+R002,Very high amount threshold,amount,gt,5000,HIGH
+R003,US or CA transaction,country,in,"US,CA",MEDIUM
+R004,Cash advance category,merchant_category,eq,cash_advance,CRITICAL
+R005,New customer tier,customer_tier,eq,new,LOW
+R006,Late-night transaction,timestamp.hour,gt,20,MEDIUM
+R007,JPY currency,currency,eq,JPY,LOW
+R008,Pending status,status,eq,pending,LOW

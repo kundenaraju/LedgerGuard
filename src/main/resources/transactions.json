@@ -1,0 +1,84 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "TXN001",
+      "amount": 1500,
+      "country": "US",
+      "merchant_category": "electronics",
+      "customer_tier": "gold",
+      "currency": "USD",
+      "status": "settled",
+      "timestamp": "2024-05-10T21:45:00Z"
+    },
+    {
+      "transaction_id": "TXN002",
+      "amount": 7000,
+      "country": "GB",
+      "merchant_category": "retail",
+      "customer_tier": "new",
+      "currency": "JPY",
+      "status": "pending",
+      "timestamp": "2024-05-10T12:30:00Z"
+    },
+    {
+      "transaction_id": "TXN003",
+      "amount": 200,
+      "country": "FR",
+      "merchant_category": "grocery",
+      "customer_tier": "new",
+      "currency": "EUR",
+      "status": "settled",
+      "timestamp": "2024-05-10T11:00:00Z"
+    },
+    {
+      "transaction_id": "TXN004",
+      "amount": 6500,
+      "country": "CA",
+      "merchant_category": "travel",
+      "customer_tier": "silver",
+      "currency": "CAD",
+      "status": "approved",
+      "timestamp": "2024-05-10T22:00:00Z"
+    },
+    {
+      "transaction_id": "TXN005",
+      "amount": 8000,
+      "country": "DE",
+      "merchant_category": "travel",
+      "customer_tier": "gold",
+      "currency": "USD",
+      "status": "pending",
+      "timestamp": "2024-05-10T15:30:00Z"
+    },
+    {
+      "transaction_id": "TXN006",
+      "amount": 300,
+      "country": "JP",
+      "merchant_category": "books",
+      "customer_tier": "new",
+      "currency": "USD",
+      "status": "settled",
+      "timestamp": "2024-05-10T09:30:00Z"
+    },
+    {
+      "transaction_id": "TXN007",
+      "amount": 1200,
+      "country": "AU",
+      "merchant_category": "cash_advance",
+      "customer_tier": "gold",
+      "currency": "JPY",
+      "status": "posted",
+      "timestamp": "2024-05-10T23:15:00Z"
+    },
+    {
+      "transaction_id": "TXN008",
+      "amount": 9500,
+      "country": "US",
+      "merchant_category": "travel",
+      "customer_tier": "bronze",
+      "currency": "JPY",
+      "status": "pending",
+      "timestamp": "2024-05-10T21:00:00Z"
+    }
+  ]
+}
